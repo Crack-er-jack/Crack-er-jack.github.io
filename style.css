@@ -250,6 +250,25 @@ a:link {
     text-decoration: none;
   }
   
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: gray;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #236D5E;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  
 
   /* Footer Area */ 
 
