@@ -259,7 +259,6 @@ a:link {
   a:hover {
     color: gray;
     background-color: transparent;
-    text-decoration: underline;
   }
   
   a:active {
