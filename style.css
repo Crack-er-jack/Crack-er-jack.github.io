@@ -263,7 +263,7 @@ a:link {
   }
   
   a:active {
-    color: #236D5E;
+    color: gray;
     background-color: transparent;
     text-decoration: underline;
   }
