@@ -257,13 +257,13 @@ a:link {
   }
   
   a:hover {
-    color: black;
+    color: #808080;
     background-color: transparent;
     text-decoration: underline;
   }
   
   a:active {
-    color: black;
+    color: #808080;
     background-color: transparent;
     text-decoration: underline;
   }
