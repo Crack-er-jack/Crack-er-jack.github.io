@@ -324,7 +324,7 @@ footer.footer-area .social a:hover > i{
 .button.primary-button:hover{
     background: whitesmoke;
     background-clip: padding-box;
-    color: black;
+    color: black !important;
 }
 
 .button.primary-button::after, .button.secondary-button::after{
@@ -345,7 +345,7 @@ footer.footer-area .social a:hover > i{
 
 .button.secondary-button:hover{
     background: var(--gradient-color);
-    color: whitesmoke;
+    color: whitesmoke !important;
     box-shadow: var(--box-shadow);
 }
 
